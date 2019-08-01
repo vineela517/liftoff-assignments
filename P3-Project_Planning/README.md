@@ -15,5 +15,4 @@ For this assignment, you'll create some initial plans for your project.
 https://trello.com/b/KvlDLZH0/online-restaurant-order
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+https://github.com/vineela517/Online-Restaurant-Order
