@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
 * [Home Page](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.pdf)
 * [User Login](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/User%20Login.pdf)
 * [User Registeration](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/User%20Registeration.pdf)
-* User Home Page after login
+* [User Home Page after login](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/User%20home%20page.pdf)
 * Create Menu by Admin
 * Add items to cart
 
