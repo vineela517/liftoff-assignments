@@ -17,7 +17,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Online Restaurant Order Project Traacker](https://trello.com/b/KvlDLZH0/online-restaurant-order)
+[Online Restaurant Order Project Tracker](https://trello.com/b/KvlDLZH0/online-restaurant-order)
 
 ### Project Repo Link
 
