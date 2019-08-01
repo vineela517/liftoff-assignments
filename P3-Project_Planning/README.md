@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 * [Home Page](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.pdf)
 * [User Login](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/User%20Login.pdf)
-* User Registeration
+* [User Registeration](https://github.com/vineela517/liftoff-assignments/blob/master/P3-Project_Planning/User%20Registeration.pdf)
 * User Home Page after login
 * Create Menu by Admin
 * Add items to cart
