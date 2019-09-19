@@ -13,4 +13,4 @@ https://github.com/vineela517
 https://www.linkedin.com/in/vineela-gottimukkala-4448a553/
 
 ### Resume
-[Resume](https://github.com/vineela517/liftoff-assignments/blob/master/C1-Online_Profiles/Vineela%20Gottimukkala.pdf)
+[Resume](https://github.com/vineela517/liftoff-assignments/blob/master/C1-Online_Profiles/Vineela%20Gottimukkala%20Launchcode%20Resume.pdf)
